@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Miprimeraapp</string>
+    <string name="mensaje_txt">welcome</string>
+    <string name="mensaje_txt1">welcome</string>
+    <string name="imagen_descripcion_txt">Android imagen</string>
+</resources>
